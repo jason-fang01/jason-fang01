@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @jason-fang01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20hrs%2011%20mins-blue)
 
@@ -22,8 +16,3 @@ Text                     12 mins             ░░░░░░░░░░░�
 
  Last Updated on 04/05/2022 08:59:32 UTC
 <!--END_SECTION:waka-->
-
-<!---
-jason-fang01/jason-fang01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -1,20 +1,20 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-30%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Markdown                 2 mins              █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+VS Code                  2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0%
+Mac                      2 mins              █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 15/05/2022 01:39:11 UTC
+ Last Updated on 16/05/2022 01:19:10 UTC
 <!--END_SECTION:waka-->

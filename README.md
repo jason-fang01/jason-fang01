@@ -1,5 +1,5 @@
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%2055%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -16,5 +16,5 @@ No Activity Tracked This Week
 ```
 
 
- Last Updated on 16/07/2022 01:41:33 UTC
+ Last Updated on 17/07/2022 01:47:24 UTC
 <!--END_SECTION:waka-->
